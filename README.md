@@ -1,3 +1,3 @@
 # flowtest
 flow test
-counter 2 da RT
+counter 3 da RT
